@@ -1,2 +1,2 @@
 # toolsnstuff
-A place where i store diffenet tools for coding, ex. snippets and templates
+A place where i store different tools for coding, ex. snippets and templates
